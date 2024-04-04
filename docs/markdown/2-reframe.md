@@ -1,4 +1,4 @@
-## Considerations
+### Considerations
 
 - Latency is the new downtime
 - Time to market is a competitive advantage
@@ -19,4 +19,9 @@ Notes:
 
 ---
 
-Start with a modular monolith.
+Start with the guardrails.
+
+Notes:
+- Feels strange at first
+- AWS menu, CNCF landscape, even Spring Initializr
+- vs Postgres, Redis, Kafka, Minio
