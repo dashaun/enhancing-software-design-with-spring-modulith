@@ -5,10 +5,11 @@
 - Containers are the new artifact
 
 Notes:
-- Microservices allowed me to get to production faster
-- API provided a contract
+- I hope its not EAR files
+- I'm no longer surprised by how teams get to production
+- Have you moved to or beyond
 - Make Jar not War
-- API allowed for multiple teams to work in parallel
+- If I say "Containers are the new artifact"
 
 ---
 
@@ -16,9 +17,16 @@ Notes:
 - With Spring Boot, everything looks like a microservice.
 
 Notes:
-- Having more tools in your tool belt
-- and knowing when to use each one
-- is a crucial aspect of modern design and architecture.
+- With Spring Boot, every problem started to look like a microservice
+- I have a default pattern
+- Spring Cloud Gateway
+- Spring Authorization Server
+- Spring Session with Redis
+- Spring Cloud Config, Eureka
+- Spring REST Docs
+- Micrometer, Prometheus, Grafana
+- Spring Boot Maven Plugin, Buildpacks
+- Native Images so I can deploy to Raspberry Pi devices
 
 ---
 
@@ -34,3 +42,16 @@ Notes:
 
 Notes:
 - When you think about Spring Boot
+- So many benefits and strengths here
+- We've had so much success
+- We've seen it work
+- Let's do it again, the same way
+
+---
+
+### Having the right tools in your tool belt, and knowing when to use each one, is a crucial aspect of modern design and architecture.
+
+Notes:
+- Do you have the right tools in your tool belt?
+- Do you know when, and how, to use them?
+- Are you sure?

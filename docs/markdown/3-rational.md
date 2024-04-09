@@ -6,18 +6,20 @@ Notes:
 - Accelerate the onboarding process
 - Formalize the process
 - Simplify the process
+- Latency is the new downtime
+- Time to market is a competitive advantage
+- The speed of business is accelerating
 
 ---
 
 ### Scaling
 
-Minimum of 3 instances in production
+High availability is a requirement
 
 Notes:
-- Orders
-- Inventory
-- Users
 - At least three instances of each
+- my children will never deploy active-passive
+- How many regions?
 
 ---
 
@@ -81,3 +83,5 @@ Notes:
 
 Notes:
 - Remember, remember
+- You have a lot to think about
+- Before you even get started
