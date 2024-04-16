@@ -11,21 +11,17 @@ Notes:
 
 ### Scaling
 
-Minimum of 3 instances in production
-
-Notes:
-- Orders
-- Inventory
-- Users
-- At least three instances of each
+- Microservices allow independent scaling
+- Do you need that on Day 1?
 
 ---
 
 ### Patching
 
-Patching is a critical part of the software development lifecycle
+- Patching is a critical part of the software development lifecycle
+- (Spring Boot 3.3 coming May 23rd)
+- Every repository needs to be maintained
 
-(Spring Boot 3.3 coming May 23rd)
 
 Notes:
 - When the next version of Spring Boot comes out
@@ -35,7 +31,9 @@ Notes:
 
 ### Documenting
 
-Test Driven Documentation is the other TDD
+- Test Driven Documentation is the other TDD
+- Do you need to open your IDE to understand the repo?
+- Do you document the relationships between your microservices?
 
 Notes:
 - Spring REST docs (OpenAPI)
@@ -43,7 +41,7 @@ Notes:
 
 ---
 
-### Testing
+### Testing Slices
 
 - @DataJpaTest
 - @WebMvcTest
@@ -81,3 +79,10 @@ Notes:
 
 Notes:
 - Remember, remember
+
+---
+
+### Day 2
+
+- Maintenance
+- Monitoring

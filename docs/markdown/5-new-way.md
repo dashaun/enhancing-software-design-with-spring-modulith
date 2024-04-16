@@ -1,16 +1,10 @@
 ### Modulith?
 
-Modular monoliths
-
-Notes:
-- are a new way to organize and evolve software projects.
-- They are a hybrid approach
-- combines the benefits of microservices
-- with the simplicity of monolithic architectures. 
-- Moduliths are designed to be highly modular,
-- with each module encapsulating a specific set of functionality.
-- This makes it easier to reason about the codebase, maintain and evolve the software,
-- and scale the application as needed.
+- "Modular monoliths"
+- Organize and evolve software projects
+- Combines the benefits of microservices
+- With the simplicity of monolithic architectures
+- Modules encapsulate a specific set of functionality
 
 ---
 

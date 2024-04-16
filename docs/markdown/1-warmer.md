@@ -12,8 +12,8 @@ Notes:
 
 ---
 
-- With a hammer, everything looks like a nail.
-- With Spring Boot, everything looks like a microservice.
+- Sometimes, with a hammer, everything looks like a nail.
+- Sometimes, with Spring Boot, everything looks like microservices.
 
 Notes:
 - Having more tools in your tool belt
@@ -34,3 +34,10 @@ Notes:
 
 Notes:
 - When you think about Spring Boot
+
+---
+
+What if I told you
+that you can have even more joy
+on your path to production
+with Spring Boot?

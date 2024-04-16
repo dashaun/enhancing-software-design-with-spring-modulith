@@ -19,7 +19,8 @@ Notes:
 
 ---
 
-Start with the guardrails.
+- Start with the guardrails.
+- Reduce the number of decisions to make.
 
 Notes:
 - Feels strange at first
