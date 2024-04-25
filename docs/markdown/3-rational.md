@@ -6,13 +6,20 @@ Notes:
 - Accelerate the onboarding process
 - Formalize the process
 - Simplify the process
+- Latency is the new downtime
+- Time to market is a competitive advantage
+- The speed of business is accelerating
 
 ---
 
 ### Scaling
 
-- Microservices allow independent scaling
-- Do you need that on Day 1?
+High availability is a requirement
+
+Notes:
+- At least three instances of each
+- my children will never deploy active-passive
+- How many regions?
 
 ---
 
