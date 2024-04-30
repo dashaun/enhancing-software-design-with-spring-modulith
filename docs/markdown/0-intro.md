@@ -9,7 +9,6 @@
 Notes:
 - Good morning, I'm DaShaun Carter
 - Spring Dev Advocate, VMware Tanzu
-- Yesterday was amazing, I'm jazzed to be here
 - I started measuring my career in days
 - Because of a former Spring Developer Advocate, James Weaver
 - In my role as VP of Engineering, uncomfortable
@@ -18,7 +17,7 @@ Notes:
 ---
 
 - https://dashaun.com 
-- dashaun.carter@broadcom.com <!-- .element: class="fragment" -->
+- dashaun.carter@broadcom.com
 
 Notes:
 - You can find me on the internet

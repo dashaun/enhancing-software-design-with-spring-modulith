@@ -12,22 +12,9 @@ Notes:
 
 ---
 
-### Scaling
-
-High availability is a requirement
-
-Notes:
-- At least three instances of each
-- my children will never deploy active-passive
-- How many regions?
-
----
-
 ### Patching
 
 Patching is a critical part of the software development lifecycle
-
-(Spring Boot 3.3 coming May 23rd)
 
 Notes:
 - When the next version of Spring Boot comes out
@@ -67,6 +54,7 @@ Notes:
 - Software supply chains
 - Artifacts
 - Distributed systems
+- High availability and scaling
 
 ---
 
