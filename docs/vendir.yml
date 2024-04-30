@@ -4,12 +4,6 @@ minimumRequiredVersion: 0.8.0
 directories:
 
   #! Product release files
-  - path: reveal.js-5.0.5
-    contents:
-      - path: .
-        git:
-          url: https://github.com/hakimel/reveal.js
-          ref: 5.0.5
   - path: reveal.js
     contents:
       - path: dist
