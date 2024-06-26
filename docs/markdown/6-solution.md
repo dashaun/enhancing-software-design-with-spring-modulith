@@ -1,3 +1,22 @@
+### The most important measure for software today is maintainability.
+
+---
+
+Start with the guardrails.
+
+Notes:
+- Feels strange at first
+- But, think of the "menu" for AWS
+- Look at CNCF landscape
+- even Spring Initializr
+- There are a lot of choices to make, before we even start
+- What if the supported stack includes
+- Postgres, Redis, Kafka, Minio
+- New teammate has Oracle, Dapr, ActiveMQ
+- and love hexagonal architecture, ports and adapters
+
+---
+
 ### Spring Modulith
 
 - Guardrails / rules for organizing and evolving software projects

@@ -9,26 +9,27 @@ Notes:
 
 ---
 
-### We can start working on it as soon as our pipelines are done!
+### Best practices change over time.
 
 ---
 
-### The most important measure for software today is maintainability.
-
----
-Start with the guardrails.
-
-Notes:
-- Feels strange at first
-- But, think of the "menu" for AWS
-- Look at CNCF landscape
-- even Spring Initializr
-- There are a lot of choices to make, before we even start
-- What if the supported stack includes
-- Postgres, Redis, Kafka, Minio
-- New teammate has Oracle, Dapr, ActiveMQ
-- and love hexagonal architecture, ports and adapters
+#### Best practices are not enough.
 
 ---
 
-### The right answer changes over time.
+### Spring Modulith provides a way to validate best practices.
+
+Josh mentioned the bad practices that we have seen in the past. (Ruby on Rails)
+
+---
+
+# Demo
+
+```bash
+spring project-catalog list
+
+spring project list
+
+spring boot new modulith-demo modulith
+```
+> Modularity Tests

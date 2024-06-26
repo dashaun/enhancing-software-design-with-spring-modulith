@@ -39,3 +39,7 @@ Notes:
 - News, Roadmap, Topic, Q&A, channel to the Spring team
 - Have something already? Want specific topic?
 - Raise your hand!
+
+---
+
+<img src="images/dinner.png" alt="dinner" width="600"/>

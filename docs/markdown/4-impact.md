@@ -1,32 +1,43 @@
-## Spring CLI
-
-Notes:
-- The easy thing to do
-- The guardrails
-- More than initializr
-- Includes sample code
+### Monoliths are hard to test
 
 ---
 
-```text
-spring project list
-```
-> Whats' on the menu?
+### Testing Slices
+
+- @DataJpaTest
+- @WebMvcTest
+- @JdbcTest
+- @DataMongoTest
+- @JsonTest
+- @RestClientTest
 
 Notes:
-- First concept
-- Whats on the menu
-- Each team can have their own catalog
-- Their own supported patterns
+- Slices are awesome
+- write tests for specific parts of your application
+- in isolation
+- without bootstrapping the whole Spring Context
 
 ---
 
-```text
-spring boot new modulith-demo modulith
-```
-> I'll have the Modulith, please.
+### @ApplicationModuleTest
+
+---
+
+### Even with tests, what does the architecture look like?
+
+---
+
+### Documenting
+
+Test Driven Documentation is the other TDD
 
 Notes:
-- spring boot new modulith-demo modulith
-- cd modulith-demo
-- ./mvnw clean package
+- Spring REST docs (OpenAPI)
+- Documentation driving the code
+
+---
+
+### Demo
+
+- Docs
+- UML

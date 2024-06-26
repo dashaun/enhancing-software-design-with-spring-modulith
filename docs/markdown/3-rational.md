@@ -12,64 +12,24 @@ Notes:
 
 ---
 
-### Patching
+### Clever Code
 
-Patching is a critical part of the software development lifecycle
+Developers don't need to be clever.
 
-Notes:
-- When the next version of Spring Boot comes out
-- How many repositories need patching?
+We would rather have boring code that is easy to maintain and support.
 
 ---
 
-### Documenting
+### Supported patterns on the menu
 
-Test Driven Documentation is the other TDD
-
-Notes:
-- Spring REST docs (OpenAPI)
-- Documentation driving the code
+CQRS, Event Sourcing, Domain Driven Design, Hexagonal Architecture, Ports and Adapters
 
 ---
 
-### Testing
+### Demo
 
-- @DataJpaTest
-- @WebMvcTest
-- @JdbcTest
-- @DataMongoTest
-- @JsonTest
-- @RestClientTest
+```bash
+spring project list
 
-Notes:
-- Slices are awesome
-- write tests for specific parts of your application
-- in isolation
-- without bootstrapping the whole Spring Context
-
----
-
-### Getting to Production
-
-- Software supply chains
-- Artifacts
-- Distributed systems
-- High availability and scaling
-
----
-
-### Fallacies of Distributed Systems
-
-- The network is reliable
-- Latency is zero
-- Bandwidth is infinite
-- The network is secure
-- Topology doesn't change
-- There is one administrator
-- Transport cost is zero
-- The network is homogeneous
-
-Notes:
-- Remember, remember
-- You have a lot to think about
-- Before you even get started
+spring boot add restdocs
+```
